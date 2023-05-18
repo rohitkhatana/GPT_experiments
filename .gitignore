@@ -1,0 +1,6 @@
+.env
+venv3/*
+index/*
+*.parquet
+*.swp
+tdd.txt
